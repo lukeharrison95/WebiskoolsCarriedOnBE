@@ -1,0 +1,6 @@
+{   
+    "port": 9090,
+    "jwt": {
+        "secret": "DEFAULT SECRET NOT FOR PRODUCTION"
+    }
+}
